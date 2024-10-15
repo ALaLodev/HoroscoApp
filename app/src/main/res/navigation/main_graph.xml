@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/hososcopeFragment">
+
+    <fragment
+        android:id="@+id/hososcopeFragment"
+        android:name="com.example.horoscoapp.ui.horoscope.HososcopeFragment"
+        android:label="fragment_hososcope"
+        tools:layout="@layout/fragment_hososcope"/>
+    <fragment
+        android:id="@+id/luckFragment"
+        android:name="com.example.horoscoapp.ui.luck.LuckFragment"
+        android:label="fragment_luck"
+        tools:layout="@layout/fragment_luck" />
+    <fragment
+        android:id="@+id/palmistryFragment"
+        android:name="com.example.horoscoapp.ui.palmistry.PalmistryFragment"
+        android:label="fragment_palmistry"
+        tools:layout="@layout/fragment_palmistry" />
+
+</navigation>
