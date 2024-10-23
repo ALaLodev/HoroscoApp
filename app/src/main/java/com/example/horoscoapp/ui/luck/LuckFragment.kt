@@ -1,15 +1,17 @@
 package com.example.horoscoapp.ui.luck
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.horoscoapp.R
+import androidx.fragment.app.Fragment
 import com.example.horoscoapp.databinding.FragmentLuckBinding
+import dagger.hilt.android.AndroidEntryPoint
 
-
+@AndroidEntryPoint
 class LuckFragment : Fragment() {
+
+    private val luckViewModel = LuckViewModel()
 
     private var _binding: FragmentLuckBinding? = null
     private val binding get() = _binding!!

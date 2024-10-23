@@ -4,7 +4,7 @@
     <item
         android:id="@+id/hososcopeFragment"
         android:icon="@drawable/ic_horoscope"
-        android:title="@string/menu_horoscope" />
+        android:title="@string/horoscope" />
 
     <item
         android:id="@+id/luckFragment"

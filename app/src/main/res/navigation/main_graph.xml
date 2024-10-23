@@ -9,16 +9,32 @@
         android:id="@+id/hososcopeFragment"
         android:name="com.example.horoscoapp.ui.horoscope.HososcopeFragment"
         android:label="fragment_hososcope"
-        tools:layout="@layout/fragment_hososcope"/>
+        tools:layout="@layout/fragment_hososcope">
+        <action
+            android:id="@+id/action_hososcopeFragment_to_horoscopeDetailActivity"
+            app:destination="@id/horoscopeDetailActivity" />
+    </fragment>
+
     <fragment
         android:id="@+id/luckFragment"
         android:name="com.example.horoscoapp.ui.luck.LuckFragment"
         android:label="fragment_luck"
         tools:layout="@layout/fragment_luck" />
+
     <fragment
         android:id="@+id/palmistryFragment"
         android:name="com.example.horoscoapp.ui.palmistry.PalmistryFragment"
         android:label="fragment_palmistry"
         tools:layout="@layout/fragment_palmistry" />
+
+    <activity
+        android:id="@+id/horoscopeDetailActivity"
+        android:name="com.example.horoscoapp.ui.detail.HoroscopeDetailActivity"
+        android:label="activity_horoscope_detail"
+        tools:layout="@layout/activity_horoscope_detail">
+        <argument
+            android:name="type"
+            app:argType="com.example.horoscoapp.domain.model.HoroscopeModel" />
+    </activity>
 
 </navigation>
