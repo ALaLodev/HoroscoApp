@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/screenShots/principal.png" alt="Principal Screen" width="20%" style="margin-right: 20dp">
-   nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
   <img src="/screenShots/detalle1.png" alt="Detail Screen" width="20%">
 </p>
 
