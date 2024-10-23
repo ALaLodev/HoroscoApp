@@ -1,8 +1,8 @@
 # 🌟 Horoscope App - Android Development Project
 
 <p align="center">
-  <img src="/screenShots/principal.png" alt="Principal Screen" width="45%" style="margin-right: 10px;">
-  <img src="/screenShots/detalle1.png" alt="Detail Screen" width="45%">
+  <img src="/screenShots/principal.png" alt="Principal Screen" width="35%" style="margin-right: 20px;">
+  <img src="/screenShots/detalle1.png" alt="Detail Screen" width="35%">
 </p>
 
 ## About the Project
