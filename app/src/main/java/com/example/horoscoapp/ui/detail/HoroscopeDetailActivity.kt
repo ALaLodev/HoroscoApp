@@ -10,7 +10,6 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.navigation.navArgs
 import com.example.horoscoapp.R
 import com.example.horoscoapp.databinding.ActivityHoroscopeDetailBinding
-import com.example.horoscoapp.domain.model.HoroscopeModel
 import com.example.horoscoapp.domain.model.HoroscopeModel.*
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch

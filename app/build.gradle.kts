@@ -54,6 +54,7 @@ dependencies {
     //Retrofit
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
+    implementation(libs.logging.interceptor)
     
 
     implementation(libs.androidx.core.ktx)
