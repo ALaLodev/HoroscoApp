@@ -1,6 +1,8 @@
 # 🌟 Horoscope App - Projecto desarrollo Android
 
 <p align="center">
+<img src="/screenShots/principal.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
   <img src="/screenShots/principal2.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
   <img src="/screenShots/detalle2.png" alt="Detail Screen" width="15%">
@@ -43,9 +45,9 @@ Al trabajar en este proyecto, he desarrollado y demostrado competencia en varias
 # 🌟 Horoscope App - Android Development Project
 
 <p align="center">
-  <img src="/screenShots/principal.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
+  <img src="/screenShots/detalle1.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
-  <img src="/screenShots/detalle1.png" alt="Detail Screen" width="15%">
+  <img src="/screenShots/detalle3.png" alt="Detail Screen" width="15%">
 </p>
 ## About the Project
 
