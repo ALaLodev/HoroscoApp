@@ -7,7 +7,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
   <img src="/screenShots/detalle2.png" alt="Detail Screen" width="15%">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
-  <img src="/screenShots/principal3.png.png" alt="Detail Screen" width="15%">
+  <img src="/screenShots/principal3.png" alt="Detail Screen" width="15%">
 </p>
 
 ## Acerca del proyecto
