@@ -46,6 +46,8 @@ Al trabajar en este proyecto, he desarrollado y demostrado competencia en varias
 
 <p align="center">
   <img src="/screenShots/detalle1.png" alt="Detail Screen" width="15%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
+  <img src="/screenShots/detalle3.png" alt="Detail Screen" width="15%">
 </p>
 ## About the Project
 
