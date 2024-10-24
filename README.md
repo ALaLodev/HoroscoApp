@@ -6,6 +6,8 @@
   <img src="/screenShots/principal2.png" alt="Principal Screen" width="15%" style="margin-right: 20dp">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
   <img src="/screenShots/detalle2.png" alt="Detail Screen" width="15%">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
+  <img src="/screenShots/principal3.png.png" alt="Detail Screen" width="15%">
 </p>
 
 ## Acerca del proyecto
