@@ -17,7 +17,7 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner = "com.example.horoscoapp.CustomTestRunner"
     }
 
     buildTypes {
@@ -49,6 +49,11 @@ dependencies {
 
     //DaggerHilt
     implementation(libs.hilt.android)
+    testImplementation(libs.junit.jupiter)
+    testImplementation(libs.junit.jupiter)
+    testImplementation(libs.junit.junit)
+    testImplementation(libs.junit.junit)
+    testImplementation(libs.junit.junit)
     kapt(libs.hilt.compiler)
 
     //Retrofit
@@ -62,14 +67,24 @@ dependencies {
     implementation(libs.androidx.camera.lifecycle)
     implementation(libs.androidx.camera.view)
     implementation(libs.androidx.camera.extensions)
-    
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+
+    //UnitTesting
     testImplementation(libs.junit)
+    testImplementation (libs.kotlintest.runner.junit5.v342)
+    testImplementation (libs.mockk)
+
+    //UITesting
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    androidTestImplementation(libs.androidx.espresso.contrib)
+    androidTestImplementation (libs.androidx.espresso.intents)
+    androidTestImplementation (libs.hilt.android.testing)
+    androidTestImplementation (libs.androidx.fragment.testing)
+    kaptAndroidTest(libs.hilt.android.compiler)
 }
