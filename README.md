@@ -43,6 +43,9 @@ By working on this project, I developed and demonstrated proficiency in several 
 - **Performance Optimization:** Efficient handling of background tasks and UI responsiveness.
 - **Testing:** Writing Unit and UI tests using JUnit, Mockito, and Espresso to ensure application stability.
 
+---
+---
+
 # 🌟 Horoscope App - Projecto desarrollo Android
 
 <p align="center">
