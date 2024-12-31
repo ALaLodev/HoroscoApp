@@ -44,7 +44,6 @@ By working on this project, I developed and demonstrated proficiency in several 
 - **Testing:** Writing Unit and UI tests using JUnit, Mockito, and Espresso to ensure application stability.
 
 ---
----
 
 # 🌟 Horoscope App - Projecto desarrollo Android
 
