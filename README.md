@@ -51,6 +51,7 @@ Al trabajar en este proyecto, he desarrollado y demostrado competencia en varias
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espacios no separables -->
   <img src="/screenShots/detalle3.png" alt="Detail Screen" width="15%">
 </p>
+
 ## About the Project
 
 Welcome to the Horoscope App, a native Android application developed with the latest technologies and best practices in Android development. This project is designed to showcase my expertise in building Android applications that are not only functional but also scalable, maintainable, and user-friendly.
